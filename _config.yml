@@ -1,10 +1,10 @@
 # Site settings
 title: Cheeky Giraffe
 email: bex@cheekygiraffe.com
-description: Cheeky little site for a cheeky little Giraffe
+description: Cheeky little site for a cheeky little giraffe
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.cheekygiraffe.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
+facebook_username: edders
 
 # Build settings
 markdown: kramdown
